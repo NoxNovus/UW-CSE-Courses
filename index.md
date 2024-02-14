@@ -44,9 +44,9 @@ Here's a brief list of sources (some may require a login with CSE credentials) w
 
 This sort of website is not some unique idea I had. In particular, I would like to credit Fan Pu Zeng of Carnegie Mellon University and Jasper van de Jeugt of Ghent University for their computer science course reviews targetting courses for their particular institutions. I read through these course review pages to get a better idea of how better to write mine, and it was quite helpful!
 
-[Fan Pu Zeng's Carnegie Mellon course review](https://fanpu.io/courses/)
+[Fan Pu Zeng's Carnegie Mellon course reviews](https://fanpu.io/courses/)
 
-[Jasper van de Jeugt's Ghent University course review](https://jaspervdj.be/posts/2013-08-10-ugent-courses-review.html)
+[Jasper van de Jeugt's Ghent University course reviews](https://jaspervdj.be/posts/2013-08-10-ugent-courses-review.html)
 
 ##  Can I reach out or ask you more questions?
 
