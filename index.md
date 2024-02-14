@@ -44,7 +44,7 @@ This sort of website is not some unique idea I had. In particular, I would like 
 
 [Jasper van de Jeugt's Ghent University course review](https://jaspervdj.be/posts/2013-08-10-ugent-courses-review.html)
 
-##  Can I ask you more questions?
+##  Can I reach out or ask you more questions?
 
 I don't anticipate that very many people would want to reach out to me, but on the off chance you'd like to because you've got questions or comments or anything of the sort, please feel free!
 
