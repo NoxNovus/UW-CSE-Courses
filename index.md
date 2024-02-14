@@ -22,7 +22,7 @@ And thus, that's the website you're viewing right now!
 ##  How do I use this website?
 At the top, there should be a search bar where you can search for any particular topic you're looking for.
 
-Otherwise, you should just browse the relevant sections you're interested in! For the comprehensive picture, start by reading through the [Disclaimers, Caveats, and Limitations](/01 - disclaimer.html), and then getting an understanding of how everything is structured on the [Course Review Structure](/02 - structure.html) page.
+Otherwise, you should just browse the relevant sections you're interested in! For the comprehensive picture, start by reading through the [Disclaimers, Caveats, and Limitations](/01%20-%20disclaimer.md), and then getting an understanding of how everything is structured on the [Course Review Structure](/02%20-%20structure.md) page.
 
 ##  What exists out there already?
 

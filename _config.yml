@@ -2,6 +2,9 @@ title: UW CSE Courses
 description: A website dedicated to commentary regarding CSE courses at the University of Washington!.
 theme: just-the-docs
 
+plugins:
+  - jekyll-relative-links
+
 # url: https://just-the-docs.github.io
 
 # aux_links:
