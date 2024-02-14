@@ -3,7 +3,7 @@ title: Introduction
 layout: home
 nav_order: 0
 ---
-# Introduction
+# University of Washington Computer Science and Engineering (CSE) Course Reviews
 
 ## Who are you?
 
