@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: UW CSE Courses
+description: A website dedicated to commentary regarding CSE courses at the University of Washington!.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
