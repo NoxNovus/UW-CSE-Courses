@@ -34,6 +34,10 @@ Here's a brief list of sources (some may require a login with CSE credentials) w
 
 [Allen School Undergraduates EdStem Board](https://edstem.org/us/courses/488/discussion/) (requires login with CSE credentials)
 
+[Transitioning into the 300s](https://docs.google.com/document/d/1c3R1R_P0CrpRQZh3-tGcqzkrLkrguVodU7smWTEUBg8/edit) (requires login with CSE credentials)
+
+[Transitioning into the 400s](https://docs.google.com/document/d/1OnzbZPEo9nogJciJtxt8T7zBmW--SM9-23_zibSxoDg/edit) (requires login with CSE credentials)
+
 \*As of February 2024, this website contains outdated information, in particular with regards to classes that are not even offered anymore. Some of the courses have been deprecated for almost a decade - the last offering for them was back in 2015!
 
 ##  Influences and Inspirations
