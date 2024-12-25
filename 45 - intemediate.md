@@ -7,8 +7,6 @@ nav_order: 45
 
 ## CSE 333
 
-## CSE 340
-
 ## CSE 341
 
 ## CSE 344

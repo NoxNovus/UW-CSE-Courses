@@ -15,6 +15,3 @@ nav_order: 40
 
 ## CSE 351
 
-## CSE 369
-
-## CSE 371

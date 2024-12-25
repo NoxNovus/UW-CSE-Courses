@@ -13,8 +13,6 @@ nav_order: 50
 
 ## CSE 427
 
-## CSE 431
-
 ## CSE 442
 
 ## CSE 444
