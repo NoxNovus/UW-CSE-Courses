@@ -1,7 +1,7 @@
 ---
 title: Math and Science Courses
 layout: home
-nav_order: 60
+nav_order: 70
 ---
 # Math and Science Courses
 
