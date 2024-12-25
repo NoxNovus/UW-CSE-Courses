@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Course Reviews
 layout: home
 nav_order: 0
 ---
@@ -7,7 +7,9 @@ nav_order: 0
 
 ## Who are you?
 
-Hi, my name's Rich. I am an undergraduate student studying computer science at the University of Washington's Paul G. Allen School of Computer Science and Engineering. I have taken quite a few courses in CSE here, and heard a lot about most of the other courses that I have not taken personally (or taken yet!)
+Hi, my name is Rich.
+
+I am an undergraduate student studying computer science at the University of Washington's Paul G. Allen School of Computer Science and Engineering. I have taken quite a few courses in CSE here, and heard a lot about most of the other courses that I have not taken personally (or taken yet!) from a wide variety of friends who have taken such courses.
 
 ## What is this website?
 
@@ -40,7 +42,9 @@ Here's a brief list of sources (some may require a login with CSE credentials) w
 
 \*As of February 2024, this website contains outdated information, in particular with regards to classes that are not even offered anymore. Some of the courses have been deprecated for almost a decade - the last offering for them was back in 2015!
 
-##  Influences and Inspirations
+Finally, I also made a course requirement graph tool, a tool that highlights the dependencies between courses in one coherent graphic (as opposed to individual courses' direct requirements). This is available at [Course-Requirement-Graph](https://github.com/NoxNovus/Course-Requirement-Graph).
+
+##  Did you have any influences or inspirations?
 
 This sort of website is not some unique idea I had. In particular, I would like to credit Fan Pu Zeng of Carnegie Mellon University and Jasper van de Jeugt of Ghent University for their computer science course reviews targetting courses for their particular institutions. I read through these course review pages to get a better idea of how better to write mine, and it was quite helpful!
 

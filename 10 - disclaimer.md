@@ -11,7 +11,7 @@ The variance of courses between quarters is surprisingly high. The are tons of f
 * Course instructor - different instructors have different preferences for how to run a course, some allow partners for various projects, others don't. Some have greater emphasis on various topics and occasionally mix it up, some stick to the same tried-and-true structure every quarter.
 * Fall/Winter/Spring/Summer quarter - the exact placement of holidays, the length of the quarter (fall tends to be longer), and other such factors can affect the course. Some courses cover slightly more or less content depending on the quarter too.
 * New ideas and restructuring - as someone who has worked as a teaching assistant (TA) for various classes, I can tell you that this happens quite frequently. Instructors are constantly looking for ways to improve courses, and so classes may have new structures that change the feeling of the class quite significantly.
-* TA budget/how many TAs there are/quality of TAs - generally, most TAs are good, but sometimes there are TAs that are more indifferent or harder to get help from.
+* TA budget/how many TAs there are/quality of TAs - it goes without saying that this an important factor affecting any particular offering of a course.
 
 Remember to take into account the various factors, but also know that the vast majority of these factors are outside of your control.
 
