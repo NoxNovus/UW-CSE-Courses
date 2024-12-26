@@ -1,8 +1,8 @@
 ---
-title: Building A Schedule
+title: Building Schedules
 layout: home
 nav_order: 150
 ---
-# Building A Schedule
+# Building Schedules
 
 TODO: Work in progress...
