@@ -20,7 +20,7 @@ The truth of the matter is that, as the name suggests, it's really only here to 
 
 - What is a computer, anyways?
 - Why can't we write a program to automatically find infinite loops in our code?
-- Are there tools that can help us in writing more complicated conditional statements?
+- Are there tools that can help us in writing and reasoning about complicated conditional statements?
 
 all of which are practical even if you want nothing to do with theoretical computer science ever again.
 
