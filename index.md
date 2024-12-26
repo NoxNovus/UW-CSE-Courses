@@ -7,7 +7,7 @@ nav_order: 0
 
 ## Who are you?
 
-Hi, my name is Rich Chen.
+Hi, you can call me RC.
 
 I am an undergraduate student studying computer science at the University of Washington's Paul G. Allen School of Computer Science and Engineering. I have taken quite a few courses in CSE here, and heard a lot about most of the other courses that I have not taken personally (or taken yet!) from a wide variety of friends who have taken such courses.
 
