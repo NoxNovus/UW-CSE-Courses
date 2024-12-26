@@ -22,7 +22,7 @@ The truth of the matter is that, as the name suggests, it's really only here to 
 - Why can't we write a program to automatically find infinite loops in our code?
 - Are there tools that can help us in writing and reasoning about complicated conditional statements?
 
-all of which are practical even if you want nothing to do with theoretical computer science ever again.
+All of which are practical even if you want nothing to do with theoretical computer science ever again.
 
 The class can be quite difficult if you've never had exposure to more abstract mathematics. For most people entering this class, their prior experience with math has primarily been regarding calculation such as solving equations. This class will expose you to a very different kind of math - specifically reasoning about abstract objects (and indeed, you'll find out that a "computer" is actually just one of those abstract kinds of objects). This course frequently feels foreign to many people, for these reasons. If you have prior exposure to most of these topics, however, the course might even feel very slow (it is not unheard of for students to come in knowing virtually all of the course content, and then more as well).
 
