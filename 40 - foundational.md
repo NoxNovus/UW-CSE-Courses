@@ -19,7 +19,7 @@ This course, being primarily focused on theory, can often feel disconnected from
 The truth of the matter is that, as the name suggests, it's really only here to set up a foundation. All of the things you learn here will come in handy later, even in programming classes! Here, even though you're only learning "theory", you will get a good appreciation that will help you answer such questions as:
 
 - What is a computer, anyways?
-- Why can't we write a program to automatically find infinite loops in our code?
+- Are there problems computers can't solve?
 - Are there tools that can help us in writing and reasoning about complicated conditional statements?
 
 All of which are practical even if you want nothing to do with theoretical computer science ever again.
