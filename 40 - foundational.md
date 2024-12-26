@@ -30,13 +30,31 @@ Overall, I very much enjoyed the course. I came in with enough experience to not
 
 
 ## CSE 312 - Foundations of Computing II
-Like its predecessor, the name is not particularly descriptive of the material covered in the course.
+Like its predecessor, the name is not particularly descriptive of the material covered in the course. This class is probably best described as a "Probability for Computer Science" course. The course builds up probability from first principles ([counting and enumeration](https://en.wikipedia.org/wiki/Counting)) all the way to various [probability distributions](https://en.wikipedia.org/wiki/Probability_distribution). About one-third of the class is focused on applications of probability and randomness in computing, which can vary based on the quarter but will almost always include some or all of the following topics:
+
+- Applications to artificial intelligence ([Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)) and machine learning ([MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation))
+- Powerful probabilistic data structures, such as the [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- Inequalities and bounds useful in the analysis of algorithms, such as [Chernoff bounds](https://en.wikipedia.org/wiki/Chernoff_bound)
+- Randomized algorithms, such as the [Monte Carlo algorithmic paradigm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
+- Distributions such as the [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) that are very useful in performance engineering of large-scale systems, particularly via [queueing theory](https://en.wikipedia.org/wiki/Queueing_theory).
+
+The practicality of which should be self-evident.
+
+Following in the footsteps of CSE 311, this class is basically entirely theoretical in nature, but unlike CSE 311, it actually has a very minimal amount of programming (dependent on instructor), primarily geared towards the applications side of things. You get to implement some cool algorithms!
+
+It's essentially just a math course that happens to teach probability with a specific computer-scientific perspective rather than a pure math one. If you are mathematically inclined, you will find the class fairly simple to navigate. The results generally feel no more dense than the ones from CSE 311, but can be very unintuitive at times (probability is indeed not so intuitive, in my opinion). My experience is that the difficulty of the course is fairly comparable to CSE 311, though a small amount of other people I know found it much easier, and a still smaller amount of others found it much harder. The best conclusion I can draw, therefore, is that it probably depends on your prior experience with this particular kind of math.
+
+This was a course I definitely enjoyed. I found the applications very convincing and the theory very interesting. Even though I did not necessarily internalize all the ideas when I was taking the course, over time I've come to develop a deep appreciation for the material and have found it coming up over and over again. It certainly deserves to be considered a "foundations" course.
+
 
 ## CSE 331 - Software Design and Implementation
+
 
 
 ## CSE 332 - Data Structures and Parallelism
 
 
+
 ## CSE 351 - The Hardware-Software Interface
+
 
