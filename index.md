@@ -17,7 +17,9 @@ Just like just about every student in the Allen School, you've probably had, at 
 
 Instead, I had to ask around everyone I knew (friends, friends of friends, acquaintances, TAs, strangers, and more!), take a look at what other people had said in various places (Reddit, Ed message boards, Discords, and more), go to the official course websites to see what they were like, and then aggregate all of this information together for me to make my choices.
 
-I admit, I definitely go too overboard in this process. But, over the course of doing this, I've come to gather a lot of information about courses, information that some have suggested I should refine into some central location for future generations of CSE students. Put briefly, I intended to collect my thoughts on the wide variety of computer science and engineering courses available at the University of Washington, and write about my experiences, the experiences of people I know, and also what I've heard in the hopes it will be useful for future students deciding what to take.
+I admit, I definitely go too overboard in this process. But, over the course of doing this, I've come to gather a lot of information about courses, information that some have suggested I should refine into some central location for future generations of CSE students. 
+
+Put briefly, I intended to collect my thoughts on the wide variety of computer science and engineering courses available at the University of Washington, and write about my experiences, the experiences of people I know, and also what I've heard in the hopes it will be useful for future students deciding what to take.
 
 And thus, that's the website you're viewing right now!
 
