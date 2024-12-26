@@ -10,14 +10,33 @@ The courses are largely very disjoint from each other and each is very unique, s
 
 I consider them separate from the non-mandatory 300-level courses, which I consider [Intermediate Courses](45%20-%20intermediate.html) owing to the fact that most of the non-mandatory 300-level courses actually have at least one of the foundational courses on this page as a pre-requisite. Those intermediate courses can therefore serve more as the middle ground to ease into some of the 400-levels.
 
+
 ## CSE 311 - Foundations of Computing I
-The name is not particularly descriptive of the material covered in the course. In some regard, this class should really be considered a "Fundamentals of Theoretical Computer Science" course, owing to the fact that the course is entirely theoretical, focusing on such topics as logic, formal proof, a formal look at mathematical constructs (such as very basic [number theory](https://en.wikipedia.org/wiki/Number_theory), [set theory](https://en.wikipedia.org/wiki/Set_theory), and [graph theory](https://en.wikipedia.org/wiki/Graph_theory)), models of computation such as [automata](https://en.wikipedia.org/wiki/Automata_theory) and formal languages, before wrapping up with some of the most important results in computer science, such as the [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) 
+The name is not particularly descriptive of the material covered in the course. In some regard, this class should really be considered a "Fundamentals of Theoretical Computer Science" course, owing to the fact that the course is entirely theoretical, focusing on such topics as logic, formal proof, a formal look at mathematical constructs (such as very basic [number theory](https://en.wikipedia.org/wiki/Number_theory), [set theory](https://en.wikipedia.org/wiki/Set_theory), and [graph theory](https://en.wikipedia.org/wiki/Graph_theory)), models of computation such as [automata](https://en.wikipedia.org/wiki/Automata_theory) and formal languages, before wrapping up with some of the most important results in computer science, such as the [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis).
+
+This course, being primarily focused on theory, can often feel disconnected from the rest of computers. After all, how can this class that feels more like math than computing have anything to do with computers?
+
+The truth of the matter is that, as the name suggests, it's really only here to set up a foundation. All of the things you learn here will come in handy later, even in programming classes! Here, even though you're only learning "theory", you will get a good appreciation that will help you answer such questions as:
+
+- What is a computer, anyways?
+- Why can't we write a program to automatically find infinite loops in our code?
+- Are there tools that can help us in writing more complicated conditional statements?
+
+all of which are practical even if you want nothing to do with theoretical computer science ever again.
+
+The class can be quite difficult if you've never had exposure to more abstract mathematics. For most people entering this class, their prior experience with math has primarily been regarding calculation such as solving equations. This class will expose you to a very different kind of math - specifically reasoning about abstract objects (and indeed, you'll find out that a "computer" is actually just one of those abstract kinds of objects). This course frequently feels foreign to many people, for these reasons. If you have prior exposure to most of these topics, however, the course might even feel very slow (it is not unheard of for students to come in knowing virtually all of the course content, and then more as well).
+
+Overall, I very much enjoyed the course. I came in with enough experience to not feel always lost, but not enough to know everything, and so the course frequently had its mind-blowing "a-ha" moments when a clever result was presented or a cool proof idea was highlighted.
+
 
 ## CSE 312 - Foundations of Computing II
+Like its predecessor, the name is not particularly descriptive of the material covered in the course.
 
 ## CSE 331 - Software Design and Implementation
 
+
 ## CSE 332 - Data Structures and Parallelism
+
 
 ## CSE 351 - The Hardware-Software Interface
 
