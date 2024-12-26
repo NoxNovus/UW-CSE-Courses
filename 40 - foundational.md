@@ -35,7 +35,7 @@ Like its predecessor, the name is not particularly descriptive of the material c
 - Applications to artificial intelligence (with methods such as [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)) and machine learning (with methods such as [MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation))
 - Powerful probabilistic data structures, such as the [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - Inequalities and bounds useful in the analysis of algorithms, such as [Chernoff bounds](https://en.wikipedia.org/wiki/Chernoff_bound)
-- Randomized algorithms, such as the [Monte Carlo algorithmic paradigm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
+- Randomized algorithms, such as those falling under the [Monte Carlo algorithmic paradigm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
 - Distributions such as the [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) that are very useful in performance engineering of large-scale software systems, particularly via [queueing theory](https://en.wikipedia.org/wiki/Queueing_theory).
 
 The practicality of which should be self-evident.
