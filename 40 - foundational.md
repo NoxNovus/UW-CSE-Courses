@@ -32,7 +32,7 @@ Overall, I very much enjoyed the course. I came in with enough experience to not
 ## CSE 312 - Foundations of Computing II
 Like its predecessor, the name is not particularly descriptive of the material covered in the course. This class is probably best described as a "Probability for Computer Science" course. The course builds up probability from first principles ([counting and enumeration](https://en.wikipedia.org/wiki/Counting)) all the way to various [probability distributions](https://en.wikipedia.org/wiki/Probability_distribution). About one-third of the class is focused on applications of probability and randomness in computing, which can vary based on the quarter but will almost always include some or all of the following topics:
 
-- Applications to artificial intelligence ([Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)) and machine learning ([MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation))
+- Applications to artificial intelligence (with methods such as [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)) and machine learning (with methods such as [MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation))
 - Powerful probabilistic data structures, such as the [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - Inequalities and bounds useful in the analysis of algorithms, such as [Chernoff bounds](https://en.wikipedia.org/wiki/Chernoff_bound)
 - Randomized algorithms, such as the [Monte Carlo algorithmic paradigm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
