@@ -42,3 +42,5 @@ nav_order: 50
 ## CSE 484
 
 ## CSE 493G1
+
+## CSE 493V
