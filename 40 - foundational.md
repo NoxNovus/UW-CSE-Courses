@@ -22,7 +22,7 @@ The truth of the matter is that, as the name suggests, it's really only here to 
 - Are there problems computers can't solve?
 - Are there tools that can help us in writing and reasoning about complicated conditional statements?
 
-All of which are practical even if you want nothing to do with theoretical computer science ever again.
+...all of which are practical even if you want nothing to do with theoretical computer science ever again.
 
 The class can be quite difficult if you've never had exposure to more abstract mathematics. For most people entering this class, their prior experience with math has primarily been regarding calculation such as solving equations. This class will expose you to a very different kind of math - specifically reasoning about abstract objects (and indeed, you'll find out that a "computer" is actually just one of those abstract kinds of objects). This course frequently feels foreign to many people, for these reasons. If you have prior exposure to most of these topics, however, the course might even feel very slow (it is not unheard of for students to come in knowing virtually all of the course content, and then more as well).
 
@@ -36,9 +36,9 @@ Like its predecessor, the name is not particularly descriptive of the material c
 - Powerful probabilistic data structures, such as the [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 - Inequalities and bounds useful in the analysis of algorithms, such as [Chernoff bounds](https://en.wikipedia.org/wiki/Chernoff_bound)
 - Randomized algorithms, such as those falling under the [Monte Carlo algorithmic paradigm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
-- Distributions such as the [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) that are very useful in performance engineering of large-scale software systems, particularly via [queueing theory](https://en.wikipedia.org/wiki/Queueing_theory).
-
-The practicality of which should be self-evident.
+- Distributions such as the [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) that are very useful in performance engineering of large-scale software systems, particularly via [queueing theory](https://en.wikipedia.org/wiki/Queueing_theory)
+  
+...all of which are extremely practical in computer science.
 
 Following in the footsteps of CSE 311, this class is basically entirely theoretical in nature, but unlike CSE 311, it actually has a very minimal amount of programming (dependent on instructor), primarily geared towards the applications side of things. You get to implement some cool algorithms!
 
